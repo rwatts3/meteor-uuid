@@ -1,4 +1,4 @@
-# Meteor UUID `v.0.1.0`
+# Meteor UUID `v.0.2.0`
 
 UUID is a package created for adding a UUID (Universal Unique Identifier) on the fly. 
 
